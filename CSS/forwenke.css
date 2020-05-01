@@ -1,0 +1,32 @@
+body{width: 100%}
+#rt{
+    border: solid;
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 2%;
+
+
+
+}
+#main{
+    width: 75%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+
+
+}
+.k{float: left}
+form{
+     width: 100%;
+ }
+table{
+    width: 100%;
+}
+tr{
+    width: 100%;
+}
+td{
+    width: 25%;
+
+}
